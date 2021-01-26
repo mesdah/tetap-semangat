@@ -1,4 +1,7 @@
 # tetap-semangat
+===========
+
+jelema
 hi sia
 aing
 kumaha
@@ -12,3 +15,4 @@ anu
 gelo
 pisan
 viss
+ghaib
